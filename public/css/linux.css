@@ -96,6 +96,12 @@ body {
   color: rgb(225, 225, 230);
 }
 
+.navbar .navbar-content .navbar-nav a.active2 {
+  border-color: none;
+  font-weight: bold;
+  color: rgb(225, 225, 230);
+}
+
 .navbar .navbar-content .navbar-nav a + a {
   margin-left: 12px;
 }
